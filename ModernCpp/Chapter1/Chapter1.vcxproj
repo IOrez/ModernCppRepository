@@ -138,6 +138,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="a00_가능한 한 auto 사용하기\example1.cpp" />
+    <ClCompile Include="a00_가능한 한 auto 사용하기\example2.cpp" />
+    <ClCompile Include="a01_타입 별칭 및 별칭 템플릿 생성\example1.cpp" />
+    <ClCompile Include="a02_균일한 초기화 이해하기\example1.cpp" />
+    <ClCompile Include="a02_균일한 초기화 이해하기\example2.cpp" />
+    <ClCompile Include="a02_균일한 초기화 이해하기\example3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
