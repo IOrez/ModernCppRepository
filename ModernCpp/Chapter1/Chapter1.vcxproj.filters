@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="a00_가능한 한 auto 사용하기">
+      <UniqueIdentifier>{62cbf402-e15a-464f-b74f-94bece5f07bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a01_타입 별칭 및 별칭 템플릿 생성">
+      <UniqueIdentifier>{b98fefa0-1f35-4923-9d0f-b989cab2567c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a02_균일한 초기화 이해하기">
+      <UniqueIdentifier>{32b9d955-25c0-48fd-a7bd-4a0fe5d1c2a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a03_비정적 멤버 초기화의 다양한 형식 이해하기">
+      <UniqueIdentifier>{6d18a086-161e-4f82-88d6-13e6bc21a12d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a04_객체 정렬 및 쿼리">
+      <UniqueIdentifier>{b0130de0-9240-40c0-a1b9-a0d18f4db92d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a05_범위가 지정된 열거형 사용하기">
+      <UniqueIdentifier>{0ae72ef5-524c-47e6-9e97-0c9a2ab7bf2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a07_범위 기반 for 루프를 사용해 범위 반복하기">
+      <UniqueIdentifier>{d335bdd4-62dc-41ba-aaf5-a84c60e1a7a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a08_사용자 정의 타입에 대한 범위 기반 for 루프 활성화">
+      <UniqueIdentifier>{d0be7cc6-1bde-47ab-9dcd-5092408d3e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a09_암시적 변환을 피하기 위해 명시적 생성자 및 변환 연산자 사용하기">
+      <UniqueIdentifier>{4d2e1471-f5eb-49ca-ba09-70d690425b74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a10_정적 전역 대신 명명되지 않은 네임스페이스 사용하기">
+      <UniqueIdentifier>{52fec73d-7912-4e04-9bc4-84d62228834d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기">
+      <UniqueIdentifier>{894a0bbb-714a-4fc6-bee2-65f39f88f488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a12_구조적 바인딩을 사용해 다중 반환값 처리하기">
+      <UniqueIdentifier>{4601f0bf-c0a3-4f1b-818b-c56f3f27cc9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a06_가상 메소드에 override와 final 사용하기">
+      <UniqueIdentifier>{ec62f279-cbd0-409f-89cd-7b2d7b35de36}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
