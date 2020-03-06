@@ -64,5 +64,20 @@
     <ClCompile Include="a02_균일한 초기화 이해하기\example3.cpp">
       <Filter>a02_균일한 초기화 이해하기</Filter>
     </ClCompile>
+    <ClCompile Include="a03_비정적 멤버 초기화의 다양한 형식 이해하기\example1.cpp">
+      <Filter>a03_비정적 멤버 초기화의 다양한 형식 이해하기</Filter>
+    </ClCompile>
+    <ClCompile Include="a03_비정적 멤버 초기화의 다양한 형식 이해하기\example2.cpp">
+      <Filter>a03_비정적 멤버 초기화의 다양한 형식 이해하기</Filter>
+    </ClCompile>
+    <ClCompile Include="a03_비정적 멤버 초기화의 다양한 형식 이해하기\example3.cpp">
+      <Filter>a03_비정적 멤버 초기화의 다양한 형식 이해하기</Filter>
+    </ClCompile>
+    <ClCompile Include="a04_객체 정렬 및 쿼리\example1.cpp">
+      <Filter>a04_객체 정렬 및 쿼리</Filter>
+    </ClCompile>
+    <ClCompile Include="a05_범위가 지정된 열거형에 사용하기\example1.cpp">
+      <Filter>a05_범위가 지정된 열거형 사용하기</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

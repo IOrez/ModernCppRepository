@@ -1,0 +1,1 @@
+#include "../Chapter1/a03_비정적 멤버 초기화의 다양한 형식 이해하기/example2.cpp"

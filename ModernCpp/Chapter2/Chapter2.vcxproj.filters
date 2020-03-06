@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="a00_숫자와 문자열 타입간의 변환">
+      <UniqueIdentifier>{4bfd5eb0-2a18-4a29-b60f-953f925da49d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a01_숫자 타입의 제한과 기타 속성">
+      <UniqueIdentifier>{2493d34b-cc52-4c2d-bff8-cf88e16a206e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a02_의사 난수 생성">
+      <UniqueIdentifier>{846f0ea8-5e6a-493e-848c-78eb9451c955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a03_의사 난수 생성기의 내부 상태의 모든 비트 초기화">
+      <UniqueIdentifier>{bb5f8743-bf3c-475b-b53a-43718374e510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a04_가공된 사용자 정의 리터럴 작성">
+      <UniqueIdentifier>{637014e1-db10-4917-84b9-5fef7e4c0635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a05_원시 사용자 정의 리터럴 작성">
+      <UniqueIdentifier>{97c266c6-52fb-46f4-bc5d-b7b48c19b546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a06_원시 문자열 리터럴을 사용한 이스케이프 문자 방지">
+      <UniqueIdentifier>{1590ed1c-db49-474f-bc99-657c888e78ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a07_문자열 헬퍼 라이브러리 생성">
+      <UniqueIdentifier>{fee3727a-3fc4-4530-8151-82b083b52679}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a08_정규 표현식을 사용해 문자열 포맷 확인하기">
+      <UniqueIdentifier>{fdd7251e-c473-4de9-9bb0-baa715b930f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a09_정규 표현식을 사용해 문자열의 내용 파싱하기">
+      <UniqueIdentifier>{284cf3d5-80da-4a9c-8444-dcf02d8f845a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a10_정규 표현식을 사용해 문자열의 내용 바꾸기">
+      <UniqueIdentifier>{11403b14-b93e-477f-8ed3-c41a911f0888}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="a11_상수 문자열 참조 대신 string_view 사용하기">
+      <UniqueIdentifier>{c3af4b1f-9994-44a8-aff7-bc5a1e916019}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
