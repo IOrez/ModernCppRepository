@@ -79,5 +79,14 @@
     <ClCompile Include="a05_범위가 지정된 열거형에 사용하기\example1.cpp">
       <Filter>a05_범위가 지정된 열거형 사용하기</Filter>
     </ClCompile>
+    <ClCompile Include="a06_가상 메소드에 override와 final 사용하기\example1.cpp">
+      <Filter>a06_가상 메소드에 override와 final 사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="a07_범위 기반 for 루프를 사용해 범위 반복하기\example1.cpp">
+      <Filter>a07_범위 기반 for 루프를 사용해 범위 반복하기</Filter>
+    </ClCompile>
+    <ClCompile Include="a08_사용자 정의 타입에 대한 범위 기반 for 루프 활성화\example1.cpp">
+      <Filter>a08_사용자 정의 타입에 대한 범위 기반 for 루프 활성화</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
