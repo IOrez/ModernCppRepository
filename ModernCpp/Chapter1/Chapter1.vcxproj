@@ -154,6 +154,13 @@
     <ClCompile Include="a06_가상 메소드에 override와 final 사용하기\example1.cpp" />
     <ClCompile Include="a07_범위 기반 for 루프를 사용해 범위 반복하기\example1.cpp" />
     <ClCompile Include="a08_사용자 정의 타입에 대한 범위 기반 for 루프 활성화\example1.cpp" />
+    <ClCompile Include="a09_암시적 변환을 피하기 위해 명시적 생성자 및 변환 연산자 사용하기\example1.cpp" />
+    <ClCompile Include="a09_암시적 변환을 피하기 위해 명시적 생성자 및 변환 연산자 사용하기\example2.cpp" />
+    <ClCompile Include="a10_정적 전역 대신 명명되지 않은 네임스페이스 사용하기\example1.cpp" />
+    <ClCompile Include="a10_정적 전역 대신 명명되지 않은 네임스페이스 사용하기\example2.cpp" />
+    <ClCompile Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기\example1.cpp" />
+    <ClCompile Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기\example2.cpp" />
+    <ClCompile Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기\example3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
