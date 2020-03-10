@@ -138,6 +138,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="a00_숫자와 문자열 타입간의 변환\example1.cpp" />
+    <ClCompile Include="a01_숫자 타입의 제한과 기타 속성\example1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

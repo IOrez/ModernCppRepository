@@ -42,4 +42,12 @@
       <UniqueIdentifier>{c3af4b1f-9994-44a8-aff7-bc5a1e916019}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="a00_숫자와 문자열 타입간의 변환\example1.cpp">
+      <Filter>a00_숫자와 문자열 타입간의 변환</Filter>
+    </ClCompile>
+    <ClCompile Include="a01_숫자 타입의 제한과 기타 속성\example1.cpp">
+      <Filter>a01_숫자 타입의 제한과 기타 속성</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

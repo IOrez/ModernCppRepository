@@ -161,6 +161,10 @@
     <ClCompile Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기\example1.cpp" />
     <ClCompile Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기\example2.cpp" />
     <ClCompile Include="a11_심볼 버전 관리에 인라인 네임스페이스 사용하기\example3.cpp" />
+    <ClCompile Include="a12_구조적 바인딩을 사용해 다중 반환값 처리하기\example1.cpp" />
+    <ClCompile Include="a12_구조적 바인딩을 사용해 다중 반환값 처리하기\example2.cpp">
+      <AdditionalOptions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">/std:c++latest %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
