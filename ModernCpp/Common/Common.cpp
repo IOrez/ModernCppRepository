@@ -1,1 +1,1 @@
-#include "../Chapter2/a01_숫자 타입의 제한과 기타 속성/example1.cpp"
+#include "../Chapter2/a02_의사 난수 생성/example3.cpp"
