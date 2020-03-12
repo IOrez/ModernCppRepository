@@ -61,5 +61,17 @@
     <ClCompile Include="a03_의사 난수 생성기의 내부 상태의 모든 비트 초기화\example1.cpp">
       <Filter>a03_의사 난수 생성기의 내부 상태의 모든 비트 초기화</Filter>
     </ClCompile>
+    <ClCompile Include="a04_가공된 사용자 정의 리터럴 작성\example1.cpp">
+      <Filter>a04_가공된 사용자 정의 리터럴 작성</Filter>
+    </ClCompile>
+    <ClCompile Include="a04_가공된 사용자 정의 리터럴 작성\example2.cpp">
+      <Filter>a04_가공된 사용자 정의 리터럴 작성</Filter>
+    </ClCompile>
+    <ClCompile Include="a04_가공된 사용자 정의 리터럴 작성\example3.cpp">
+      <Filter>a04_가공된 사용자 정의 리터럴 작성</Filter>
+    </ClCompile>
+    <ClCompile Include="a05_원시 사용자 정의 리터럴 작성\example1.cpp">
+      <Filter>a05_원시 사용자 정의 리터럴 작성</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
