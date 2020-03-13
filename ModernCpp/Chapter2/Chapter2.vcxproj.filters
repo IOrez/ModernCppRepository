@@ -73,5 +73,13 @@
     <ClCompile Include="a05_원시 사용자 정의 리터럴 작성\example1.cpp">
       <Filter>a05_원시 사용자 정의 리터럴 작성</Filter>
     </ClCompile>
+    <ClCompile Include="a06_원시 문자열 리터럴을 사용한 이스케이프 문자 방지\example1.cpp">
+      <Filter>a06_원시 문자열 리터럴을 사용한 이스케이프 문자 방지</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="a07_문자열 헬퍼 라이브러리 생성\example1.hpp">
+      <Filter>a07_문자열 헬퍼 라이브러리 생성</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

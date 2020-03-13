@@ -1,1 +1,1 @@
-#include "../Chapter2/a02_의사 난수 생성/example3.cpp"
+#include "../Chapter2/a06_원시 문자열 리터럴을 사용한 이스케이프 문자 방지/example1.cpp"
