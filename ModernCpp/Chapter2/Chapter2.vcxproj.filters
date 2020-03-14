@@ -76,10 +76,16 @@
     <ClCompile Include="a06_원시 문자열 리터럴을 사용한 이스케이프 문자 방지\example1.cpp">
       <Filter>a06_원시 문자열 리터럴을 사용한 이스케이프 문자 방지</Filter>
     </ClCompile>
+    <ClCompile Include="a08_정규 표현식을 사용해 문자열 포멧 확인하기\example1.cpp">
+      <Filter>a08_정규 표현식을 사용해 문자열 포맷 확인하기</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="a07_문자열 헬퍼 라이브러리 생성\example1.hpp">
       <Filter>a07_문자열 헬퍼 라이브러리 생성</Filter>
+    </ClInclude>
+    <ClInclude Include="a08_정규 표현식을 사용해 문자열 포멧 확인하기\example2.hpp">
+      <Filter>a08_정규 표현식을 사용해 문자열 포맷 확인하기</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

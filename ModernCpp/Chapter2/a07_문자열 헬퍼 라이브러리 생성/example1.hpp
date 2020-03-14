@@ -103,7 +103,7 @@ namespace string_library
 		return tokens;
 	}
 }
-#define MAIN
+//#define MAIN
 #ifdef MAIN
 int main()
 {
